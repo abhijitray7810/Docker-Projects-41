@@ -8,7 +8,7 @@ A collection of Docker-based projects demonstrating various containerization con
 - [Projects](#projects)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
+- [Project Structure](#project-structure) 
 - [Contributing](#contributing)
 - [License](#license)
 
