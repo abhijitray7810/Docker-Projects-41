@@ -19,7 +19,7 @@ This repository contains hands-on Docker projects that cover essential container
 - Containerizing applications
 - Multi-container orchestration 
 - CI/CD with GitHub Actions
-- Performance monitoring
+- Performance monitoring 
 - Multi-stage builds
 
 ## 🚀 Projects
